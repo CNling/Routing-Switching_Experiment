@@ -6,7 +6,7 @@
 
 ---
 
-## 1、[实验目标]: (https://github.com/lihouwen83/Routing-Switching_Experiment/blob/master/Obj%20expt.md) "实验目标"
+## 1、[实验目标](https://github.com/lihouwen83/Routing-Switching_Experiment/blob/master/Obj%20expt.md) "实验目标"
 
 ---
 
