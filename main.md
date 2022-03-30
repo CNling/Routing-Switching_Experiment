@@ -18,35 +18,35 @@
 
 > PC10：
 
-![PC10_BasicCfg](.\images\PC10_BasicCfg.png)
+![PC10_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC10_BasicCfg.png)
 
 > Client11：
 
-![Client11_BasicCfg](.\images\Client11_BasicCfg.png)
+![Client11_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/Client11_BasicCfg.png)
 
 > PC20：
 
-![PC20_BasicCfg](.\images\PC20_BasicCfg.png)
+![PC20_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC20_BasicCfg.png)
 
 > Client21：
 
-![Client21_BasicCfg](.\images\Client21_BasicCfg.png)
+![Client21_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/Client21_BasicCfg.png)
 
 > Server30：
 
-![Server30_BasicCfg](.\images\Server30_BasicCfg.png)
+![Server30_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/Server30_BasicCfg.png)
 
 > Server40：
 
-![Server40_BasicCfg](.\images\Server40_BasicCfg.png)
+![Server40_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/Server40_BasicCfg.png)
 
 > Server100：
 
-![Server100_BasicCfg](.\images\Server100_BasicCfg.png)
+![Server100_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/Server100_BasicCfg.png)
 
 > Server200：
 
-![Server200_BasicCfg](.\images\Server200_BasicCfg.png)
+![Server200_BasicCfg](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/Server200_BasicCfg.png)
 
 ---
 
@@ -160,7 +160,7 @@
 
 **测试连通性：**PC20 ping Client21
 
-![pc20-client21](D:\Desktop\images\pc20-client21.png)
+![pc20-client21](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/pc20-client21.png)
 
 > Pass
 
@@ -192,7 +192,7 @@
 
 **测试连通性：**PC10 ping Server30
 
-​ ![PC10-Server30](D:\Desktop\images\PC10-Server30.png)
+​ ![PC10-Server30](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC10-Server30.png)
 
 > Pass
 
@@ -219,7 +219,7 @@ SW4 配置：
 
 **测试连通性：**PC20 ping Server40
 
-![PC20-Server40](D:\Desktop\images\PC20-Server40.png)
+![PC20-Server40](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC20-Server40.png)
 
 > Pass
 
@@ -277,7 +277,7 @@ SW4 配置：
 
 **测试连通性：**PC10 ping PC20
 
-![PC10 - PC20](D:\Desktop\images\PC10 - PC20.png)
+![PC10 - PC20](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC10%20-%20PC20.png)
 
 > Pass
 
@@ -285,7 +285,7 @@ SW4 配置：
 
 PC10 ping Server40
 
-![PC10-Server40](D:\Desktop\images\PC10-Server40.png)
+![PC10-Server40](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC10-Server40.png)
 
 > Pass
 
@@ -293,7 +293,7 @@ PC10 ping Server40
 
 PC20 ping Server30
 
-![PC20 - Server30](D:\Desktop\images\PC20 - Server30.png)
+![PC20 - Server30](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC20%20-%20Server30.png)
 
 > Pass
 
@@ -436,7 +436,7 @@ PC20 ping Server30
 
 **测试连通性：**PC10 ping Server100
 
-![PC10-Server100](D:\Desktop\images\PC10-Server100.png)
+![PC10-Server100](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC10-Server100.png)
 
 > Pass
 
@@ -444,7 +444,7 @@ PC20 ping Server30
 
 PC20 ping Server200
 
-![PC20-Server200](D:\Desktop\images\PC20-Server200.png)
+![PC20-Server200](https://github.com/CNling/Routing-Switching_Experiment/blob/master/images/PC20-Server200.png)
 
 > Pass
 
